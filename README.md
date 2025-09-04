@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **LangChain/LLMs**
 
-- 📫 How to reach me **
+- 📫 How to reach me :
 - 📞 +92 306 1106226
-- | 📧ahmadcheema0300@gmail.com**
+- 📧ahmadcheema0300@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
