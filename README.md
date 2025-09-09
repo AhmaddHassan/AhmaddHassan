@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation">
 </div>
-<h3 align="center">Python & ML Developer with hands-on experience in backend systems, AI agents, and data pipelines. Proven ability to deliver business-focused software solutions through internships and projects. Strong foundation in LangChain, LLMs, web scraping, and ML model deployment, with a passion for building scalable AI-driven applications.om India</h3>
+<h3 align="center">Python & ML Developer with hands-on experience in backend systems, AI agents, and data pipelines. Proven ability to deliver business-focused software solutions through internships and projects. Strong foundation in LangChain, LLMs, web scraping, and ML model deployment, with a passion for building scalable AI-driven applications</h3>
 
 - 🌱 I’m currently learning **LangChain/LLMs**
 
